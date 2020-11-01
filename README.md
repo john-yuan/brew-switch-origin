@@ -10,10 +10,10 @@ Clone this repository to your mac and open the repository in terminal.
 # Add the execute bits to the script
 chmod +x brew-switch-origin.sh
 
-# Check the current
+# Check the current one
 ./brew-switch-origin.sh check
 
-# Switch to ustc mirror.
+# Switch to ustc mirror
 ./brew-switch-origin.sh use ustc
 
 # Switch back to github
